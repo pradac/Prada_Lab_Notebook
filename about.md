@@ -11,7 +11,7 @@ wwww.carlosprada.org
 ### Contact us
 
 [prada@uri.edu](mailto:prada@uri.edu)
-[Myles_wagner@my.uri.edu](mailto:hputnam@uri.edu)
+[Myles_wagner@my.uri.edu](mailto:Myles_wagner@my.uri.edu)
 
 
 ## <center>Myles Wagner</center>
